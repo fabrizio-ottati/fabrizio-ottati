@@ -1,3 +1,3 @@
 ### Fabrizio Ottati
 
-AI/ML Processor Engineer @ NXP Semiconductors, Hamburg. Into pizza, wine, cats, multipy & accumulates.
+Staff GPU AI Compiler Engineer @ Qualcomm, Cork. Into pizza, wine, cats, multipy & accumulates.
